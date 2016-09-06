@@ -1,0 +1,56 @@
+body{
+font-family:'Raleway', sans-serif;
+background-image: ("homepage.jpg");
+background-repeat: no-repeat;
+}
+.red{
+background-color: red;
+opacity: 0.5;
+}
+.blue{
+background-color: blue;
+opacity: 0.5;
+}
+.green{
+background-color: green;
+opacity: 0.5;
+}
+.yellow{
+background-color: yellow;
+opacity: 0.5;
+}
+.home-img{
+opacity: 0.5;
+}
+.logo{
+height:145px;}
+.navbar{
+  height:100px;
+  margin:0px;
+}
+.contact{
+  height: 45px;
+  margin:0px;
+}
+
+.salon-img{
+width:100%;
+
+}
+
+.ad-1{
+  margin-top:30px;
+  height:250px;
+}
+.list-services{
+  margin-top:30px;
+  height:300px;
+}
+.ad-2{
+  height:210px;
+  lol
+}
+.footer{
+  height:100px;
+  margin-top:40px;
+}
